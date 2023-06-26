@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\BANCO API\obj\Debug\net7.0\Banco API.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\BANCO API\obj\Debug\net7.0\Banco API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\BANCO API\obj\Debug\net7.0\Banco API.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\BANCO API\obj\Debug\net7.0\Banco API.AssemblyInfo.cs
+C:\Users\Usuario\Documents\BANCO API\obj\Debug\net7.0\Banco API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\BANCO API\obj\Debug\net7.0\Banco API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\BANCO API\obj\Debug\net7.0\Banco API.MvcApplicationPartsAssemblyInfo.cache
